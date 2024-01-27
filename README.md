@@ -1,3 +1,5 @@
+# This is repo of our 1st version for Desktop App
+
 # Fidec Cold Wallet Project
 This project is developed to provide a safe, cheap and convenient solution to store private key in a Smart Card, so that users can make transaction and interact with blockchain applications with ease.
 
