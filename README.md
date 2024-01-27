@@ -25,3 +25,7 @@ Ref: https://dorahacks.io/buidl/8317
 - EVM Compatible
 - Help to build a safe, cheap and convenient wallet for users
 - Help to build ecosystem around Artela such as payment gateway, NFT, loyalty program, Voting ...
+
+# Video demo Mobile App version
+Ref: https://www.youtube.com/shorts/tBwiGHsFWhI
+
