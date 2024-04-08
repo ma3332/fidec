@@ -1,7 +1,7 @@
 # This is repo of our 1st version for Desktop App
 
 # Fidec Cold Wallet Project
-This project is developed to provide a safe, cheap and convenient solution to store private key in a Smart Card, so that users can make transaction and interact with blockchain applications with ease.
+This project is developed to provide a safe, cheap and convenient solution to store private key and perform digital signature in a Smart Card, so that users can make transaction and interact with blockchain applications with ease. As private key cannot be taken out of Smart Card, it will be absolutely safe for users to participate in decentrialzed networks.
 
 This project included hardware customization as well as software development, namely desktop app and mobile app.
 
@@ -23,10 +23,13 @@ Smart Cards can interact with desktop app via Reader and interact with Mobile ap
 # The design process behind the project
 Ref: https://dorahacks.io/buidl/8317
 
-# The value that this Aspect brings to the Artela Ecosystem
+# The value for Blockchain Ecosystems
 - EVM Compatible
+- Cosmos Blockchain networks
+- Sui Blockchain networks
+- Bitcoin, Ltc ... networks
 - Help to build a safe, cheap and convenient wallet for users
-- Help to build ecosystem around Artela such as payment gateway, NFT, loyalty program, Voting ...
+- Help to build ecosystem around blockchain technologies such as payment gateway, NFT, loyalty program, Voting ...
 
 # Video demo Mobile App version
 Ref: https://www.youtube.com/shorts/tBwiGHsFWhI
